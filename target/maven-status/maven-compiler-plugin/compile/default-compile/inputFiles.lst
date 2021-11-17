@@ -1,0 +1,13 @@
+/home/vladimirkunats/IdeaProjects/Vladimir-Kunats-1st-Epam-Project/src/main/java/com/epam/brest/model/StatusType.java
+/home/vladimirkunats/IdeaProjects/Vladimir-Kunats-1st-Epam-Project/src/main/java/com/epam/brest/selector/PriceSelector.java
+/home/vladimirkunats/IdeaProjects/Vladimir-Kunats-1st-Epam-Project/src/main/java/com/epam/brest/model/ReadDataState.java
+/home/vladimirkunats/IdeaProjects/Vladimir-Kunats-1st-Epam-Project/src/main/java/com/epam/brest/file/FileReader.java
+/home/vladimirkunats/IdeaProjects/Vladimir-Kunats-1st-Epam-Project/src/main/java/com/epam/brest/model/AbstractStatus.java
+/home/vladimirkunats/IdeaProjects/Vladimir-Kunats-1st-Epam-Project/src/main/java/com/epam/brest/calc/CalcImpl.java
+/home/vladimirkunats/IdeaProjects/Vladimir-Kunats-1st-Epam-Project/src/main/java/com/epam/brest/Main.java
+/home/vladimirkunats/IdeaProjects/Vladimir-Kunats-1st-Epam-Project/src/main/java/com/epam/brest/file/CSVFileReader.java
+/home/vladimirkunats/IdeaProjects/Vladimir-Kunats-1st-Epam-Project/src/main/java/com/epam/brest/file/JSONFileReader.java
+/home/vladimirkunats/IdeaProjects/Vladimir-Kunats-1st-Epam-Project/src/main/java/com/epam/brest/model/Status.java
+/home/vladimirkunats/IdeaProjects/Vladimir-Kunats-1st-Epam-Project/src/main/java/com/epam/brest/model/ExitState.java
+/home/vladimirkunats/IdeaProjects/Vladimir-Kunats-1st-Epam-Project/src/main/java/com/epam/brest/calc/Calc.java
+/home/vladimirkunats/IdeaProjects/Vladimir-Kunats-1st-Epam-Project/src/main/java/com/epam/brest/model/CalcState.java
